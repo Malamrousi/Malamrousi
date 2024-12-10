@@ -17,54 +17,54 @@ Hi there! 👋 I'm **Mohammed Alamrousi**, a passionate **Flutter Developer** fr
 
 <table>
   <tr>
-    <td style="text-align: center; font-weight: bold; padding: 10px;">Programming Languages:</td>
-    <td style="padding: 10px;">
+    <td style="text-align: center; font-weight: bold;">Programming Languages:</td>
+    <td>
       <img height="40" src="https://skillicons.dev/icons?i=dart" alt="Dart Icon" />
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; font-weight: bold; padding: 10px;">Mobile Development:</td>
-    <td style="text-align: start; padding: 10px;">
+    <td style="text-align: center; font-weight: bold;">Mobile Development:</td>
+    <td>
       <img height="40" src="https://skillicons.dev/icons?i=flutter,firebase" alt="Flutter and Firebase Icons" />
       <br />
-      <span style="display: inline-block; background-color: #0175C2; color: white; padding: 5px 10px; border-radius: 5px; margin-top: 5px;">Local Database</span>
+      <img src="https://img.shields.io/badge/Local%20Database-0175C2?style=for-the-badge&logoColor=white" alt="Local Database Icon">
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; font-weight: bold; padding: 10px;">Software Architecture:</td>
-    <td style="padding: 10px;">
-      <span style="display: inline-block; background-color: #FF8C00; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Clean Architecture</span>
-      <span style="display: inline-block; background-color: #FF5733; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px;">SOLID Principles</span>
-      <span style="display: inline-block; background-color: #C70039; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px;margin-top: 5px;">MVVM</span>
-      <span style="display: inline-block; background-color: #900C3F; color: white; padding: 5px 10px; border-radius: 5px;margin-top: 5px;">MVC</span>
+    <td style="text-align: center; font-weight: bold;">Software Architecture:</td>
+    <td>
+      <img src="https://img.shields.io/badge/Clean%20Architecture-FF8C00?style=for-the-badge&logoColor=white" alt="Clean Architecture">
+      <img src="https://img.shields.io/badge/SOLID%20Principles-FF5733?style=for-the-badge&logoColor=white" alt="SOLID Principles">
+      <img src="https://img.shields.io/badge/MVVM-C70039?style=for-the-badge&logoColor=white" alt="MVVM">
+      <img src="https://img.shields.io/badge/MVC-900C3F?style=for-the-badge&logoColor=white" alt="MVC">
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; font-weight: bold; padding: 10px;">Design Principles:</td>
-    <td style="padding: 10px;">
-      <span style="display: inline-block; background-color: #28A745; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Clean Code</span>
-      <span style="display: inline-block; background-color: #5C2D91; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px;">OOP</span>
-      <span style="display: inline-block; background-color: #1E90FF; color: white; padding: 5px 10px; border-radius: 5px;">Design Patterns</span>
+    <td style="text-align: center; font-weight: bold;">Design Principles:</td>
+    <td>
+      <img src="https://img.shields.io/badge/Clean%20Code-28A745?style=for-the-badge&logoColor=white" alt="Clean Code">
+      <img src="https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge&logoColor=white" alt="OOP">
+      <img src="https://img.shields.io/badge/Design%20Patterns-1E90FF?style=for-the-badge&logoColor=white" alt="Design Patterns">
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; font-weight: bold; padding: 10px;">Tools & Platforms:</td>
-    <td style="padding: 10px;">
+    <td style="text-align: center; font-weight: bold;">Tools & Platforms:</td>
+    <td>
       <img height="40" src="https://skillicons.dev/icons?i=postman,figma,xd" alt="Postman, Figma, and Adobe XD Icons" />
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; font-weight: bold; padding: 10px;">Version Control:</td>
-    <td style="padding: 10px;">
+    <td style="text-align: center; font-weight: bold;">Version Control:</td>
+    <td>
       <img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub Icons" />
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; font-weight: bold; padding: 10px;">Computer Science Fundamentals:</td>
-    <td style="padding: 10px;">
-      <span style="display: inline-block; background-color: #FF5733; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Data Structures</span>
-      <span style="display: inline-block; background-color: #C70039; color: white; padding: 5px 10px; border-radius: 5px; margin-right: 5px;">Algorithms</span>
-      <span style="display: inline-block; background-color: #900C3F; color: white; padding: 5px 10px; border-radius: 5px; margin-top: 5px;">Problem Solving</span>
+    <td style="text-align: center; font-weight: bold;">Computer Science Fundamentals:</td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Structures-FF5733?style=for-the-badge&logoColor=white" alt="Data Structures">
+      <img src="https://img.shields.io/badge/Algorithms-C70039?style=for-the-badge&logoColor=white" alt="Algorithms">
+      <img src="https://img.shields.io/badge/Problem%20Solving-900C3F?style=for-the-badge&logoColor=white" alt="Problem Solving">
     </td>
   </tr>
 </table>
