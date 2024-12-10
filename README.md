@@ -69,24 +69,20 @@ Hi there! 👋 I'm **Mohammed Alamrousi**, a passionate **Flutter Developer** fr
   </tr>
 </table>
 
-<section align="center" style="margin: 20px 0;">
-  <h2>📞 Contact Me:</h2>
-  <p>Let's connect and discuss your ideas, projects, or collaboration opportunities. I'm ready to bring your vision to life! ✨</p>
-  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px;">
-    <a href="mailto:alamoursi.work2@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120px" alt="Email">
-    </a>
-    <a href="https://github.com/Malamoursi" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="120px" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/mohamed-alamoursi-00787b557/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120px" alt="LinkedIn">
-    </a>
-    <a href="https://wa.me/+201008536562" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="120px" alt="WhatsApp">
-    </a>
-  </div>
+# 📞 Contact Me:
+Let’s connect and discuss your ideas, projects, or collaboration opportunities. I’m ready to bring your vision to life! ✨
+
+<section align="center" style="margin-left: 10px; margin-bottom: 27px;">
+  <a href="mailto:m.alamrousi.work2@gmail.com" style="margin-left: 12px; text-decoration: none;" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120px">
+  </a>
+  <a href="https://github.com/Malamrousi" style="margin-left: 12px; text-decoration: none;" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="120px">
+  </a>
+  <a href="https://linkedin.com/in/mohammed-alamrousi" style="margin-left: 12px; text-decoration: none;" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120px">
+  </a>
+  <a href="https://wa.me/+201005635026" style="margin-left: 12px; text-decoration: none;" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="120px">
+  </a>
 </section>
-
-
-
